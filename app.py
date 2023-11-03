@@ -58,7 +58,7 @@ def calcular_int():
         plt.close()
 
         return render_template('resultado.html', area=area, img_url=img_url)
-    return render_template('formulario.html')
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run()
