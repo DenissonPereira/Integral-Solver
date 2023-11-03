@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import  io
 import base64
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
 @app.route('/', methods=['GET', 'POST'])
 def calcular_int():

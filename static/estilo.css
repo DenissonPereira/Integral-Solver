@@ -4,20 +4,69 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: antiquewhite;
+    background-image: url(/static/image/fractal-1104779_1920.jpg);
 }
 
 .principal {
-    background-color: rgba(255, 255, 255, 0.295);
+    background-color: rgba(255, 255, 255, 0.048);
     backdrop-filter: blur(20px);
-    box-shadow: 1px 1px 1px 1px rgb(100, 97, 97);
+    box-shadow: 1px 1px 1px 1px rgba(141, 139, 139, 0.212);
     border-radius: 20px;
     width: 90%;
     max-width: 30em;
+    height: 30em;
     padding: 20px;
     text-align: left;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.botao {
+    width: 200px; /* Defina a largura desejada */
+    height: 50px; /* Defina a altura desejada, se necessário */
+    font-size: 16px; /* Aumente o tamanho da fonte, se desejado */
+    /* Outros estilos do botão */
+    background-color: rgb(223, 219, 215);
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.botao:hover {
+    background-color: chartreuse;
+}
+
+input#f {
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.089);
+}
+input#limite_inf{
+    width: 80px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.089);
+    border-radius: 8px;
+}
+input#limite_sup{
+    width: 80px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.089);
+    border-radius: 8px;
+}
+input#n {
+    width: 80px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.089);
+    border-radius: 8px;
 }
