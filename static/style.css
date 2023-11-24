@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-image: url(/static/image/fractal-1104779_1920.jpg);
+    display: flex;
+    flex-direction: column;
+}
