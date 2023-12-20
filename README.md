@@ -21,7 +21,7 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 [![Badge](https://img.shields.io/badge/Python-%234B8BBE?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Badge](https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Badge](https://img.shields.io/badge/SymPy-%23876ABE?style=flat&logo=sympy&logoColor=white)](https://www.sympy.org/)
-[![Badge](https://img.shields.io/badge/Matplotlib-%234096FF?style=flat&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Badge](https://img.shields.io/badge/HTML5-%23E44D26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
