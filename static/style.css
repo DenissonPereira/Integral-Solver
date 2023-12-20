@@ -4,7 +4,17 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-image: url(/static/image/fractal-1104779_1920.jpg);
+    background-image: url(/static/image/space-7826453_1920.jpg);
     display: flex;
     flex-direction: column;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.048);
+    backdrop-filter: blur(20px);
+    box-shadow: 1px 1px 1px 1px rgba(141, 139, 139, 0.212);
+    border-radius: 20px;
+    color: aliceblue;
 }
