@@ -31,12 +31,12 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 
 Você precisa ter o Python 3 instalado em seu computador. O Python 3 está disponível em [python.org](https://www.python.org/), e você pode baixá-lo clicando no link abaixo:
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 Após instalar o Python 3, entre no diretório do projeto com o seguinte comando no seu terminal:
 
 ```
-cd /Integral-Solver
+cd Integral-Solver
 ```
 
 ## ✨ Tudo pronto! ✨
